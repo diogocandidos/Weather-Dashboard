@@ -5,8 +5,12 @@ The webpage consists of a weather dashboard where the user can search for the cu
 # Built With
 
 •    HTML
+
 •    CSS 
+
 •    Bootstrap
+
 •    Openweathermap api
+
 •    Javascript
 
