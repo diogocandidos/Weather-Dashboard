@@ -1,0 +1,17 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+body {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUh9u104ViUb4YRgFPiimwJVbGh2o36cahSw&usqp=CAU");   
+  }
+
+#imgIcon {
+  height": 100%;
+  width: 100%;
+}
+
+.card{
+    background-color: #007bff;
+}
+
