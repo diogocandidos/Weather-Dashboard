@@ -5,6 +5,7 @@ The webpage consists of a weather dashboard where the user can search for the cu
 
 <img width="480" alt="weather-dashboard" src="https://user-images.githubusercontent.com/61811579/89972620-18654200-dc13-11ea-9f0c-f266e611d272.png">
 
+URL: https://diogocandidos.github.io/Weather-Dashboard/index2.html
 
 # Built With
 
